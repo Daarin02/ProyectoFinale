@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\build\TomChino_ComidaChina.API.props" />
+</Project>

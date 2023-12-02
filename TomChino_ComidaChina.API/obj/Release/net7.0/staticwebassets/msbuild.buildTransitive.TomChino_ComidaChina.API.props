@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\buildMultiTargeting\TomChino_ComidaChina.API.props" />
+</Project>
